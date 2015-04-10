@@ -1,0 +1,19 @@
+{
+  "name": "configuration-client",
+  "version": "0.1.0",
+  "description": "Configuration service",
+  "main": "index.js",
+  "repository": "",
+  "author": "Shenghua Zhu <shenghua.zhu@2vive.com>",
+  "license": "BSD",
+  "scripts": {},
+  "dependencies": {
+    "bluebird": "^2.9.24",
+    "request": "^2.53.0",
+    "socket.io-client": "^1.3.3",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "nodejs-lighter": "git+ssh://git@github.com:2ViVe/nodejs-lighter.git"
+  }
+}

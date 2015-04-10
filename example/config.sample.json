@@ -1,0 +1,11 @@
+{
+  "name": "service-client-example",
+  "port": "3002",
+  "log": {
+    "level": "trace"
+  },
+  "serviceRegistry": {
+    "host": "localhost",
+    "port": 8050
+  }
+}
