@@ -1,7 +1,7 @@
 {
-  "name": "configuration-client",
+  "name": "service-client",
   "version": "0.1.0",
-  "description": "Configuration service",
+  "description": "Common service client",
   "main": "index.js",
   "repository": "",
   "author": "Shenghua Zhu <shenghua.zhu@2vive.com>",
@@ -14,6 +14,5 @@
     "underscore": "^1.8.3"
   },
   "devDependencies": {
-    "nodejs-lighter": "git+ssh://git@github.com:2ViVe/nodejs-lighter.git"
   }
 }
